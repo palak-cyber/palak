@@ -1,3 +1,3 @@
 # palak
-this is my first gits repository
-author - palak pardhi
+this is my first gits repository.
+Author - palak pardhi
